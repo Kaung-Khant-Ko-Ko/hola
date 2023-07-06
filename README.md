@@ -3,7 +3,7 @@ Language Classification Public Dataset: 9 languages including Burmese, Sinhala, 
 By Simbolo, Simbolo: Servicio, Simbolo: Idioma
 
 # <b> Overview </b>
-Hola dataset contains data from 100 languages, including English, Burmese, Japanese, Spanish, Chinese (Traditional), Korean, etc. Each sample is a sentence data with a label of ISO 639-1 code of respective language, e.g. en, my, ja, es, zh, ko, etc.
+Hola dataset contains data from 9 languages, including English, Burmese, Japanese, Spanish, Chinese (Traditional), Korean, etc. Each sample is a sentence data with a label of ISO 639-1 code of respective language, e.g. en, my, ja, es, zh, ko, etc.
 
 # <b> Data </b>
 Each training sample and testing sample is a sentence data like this:
