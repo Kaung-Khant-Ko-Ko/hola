@@ -1,5 +1,5 @@
 # Hola: Language-Classification-Public-Dataset
-Language Classification Public Dataset: 100 languages including Burmese, Shan, English, and Spanish 
+Language Classification Public Dataset: 9 languages including Burmese, Sinhala, English, and Spanish 
 By Simbolo, Simbolo: Servicio, Simbolo: Idioma
 
 # <b> Overview </b>
