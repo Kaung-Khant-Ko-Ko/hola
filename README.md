@@ -68,13 +68,17 @@ Each training sample and testing sample is labeled with one of the following lab
     </tr>
     <tr>
         <td> zh </td>
-        <td> Chinese (Traditiona) </td>
+        <td> Chinese (Traditional) </td>
     </tr>
     <tr>
         <td> ko </td>
         <td> Korean </td>
     </tr>
 </table>
+
+# <b> Contributors </b>
+Kaung Khant Ko Ko
+Hlaing Min Oo
 
 # <b> License </b>
 MIT License
