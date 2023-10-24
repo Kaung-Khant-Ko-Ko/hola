@@ -78,7 +78,7 @@ Each training sample and testing sample is labeled with one of the following lab
 
 # <b> Contributors </b>
 Kaung Khant Ko Ko
-Hlaing Min Oo
+Phuu Pwint Thinzar Kyaing
 
 # <b> License </b>
 MIT License
