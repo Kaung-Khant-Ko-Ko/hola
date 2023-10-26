@@ -77,7 +77,7 @@ Each training sample and testing sample is labeled with one of the following lab
 </table>
 
 # <b> Contributors </b>
-Kaung Khant Ko Ko
+Kaung Khant Ko Ko,
 Phuu Pwint Thinzar Kyaing
 
 # <b> License </b>
